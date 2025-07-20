@@ -1,4 +1,4 @@
-# GoRay
+# GBCards
 
 Game inspired from [Ginger Bill game](https://github.com/gingerBill/game-face-the-court).
 
